@@ -18,7 +18,7 @@ npm install
 
 2. **Create `.env`** in root:
 
-"```
+```bash
 AIRWALLEX_API_KEY=your_demo_api_key"
 AIRWALLEX_CLIENT_ID=your_demo_client_id
 AIRWALLEX_ENV=demo
